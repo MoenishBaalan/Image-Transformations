@@ -117,6 +117,30 @@ plt.show()
 
 ```
 
+## Output:
+
+
+<img width="386" height="535" alt="image" src="https://github.com/user-attachments/assets/31f49fe3-cbe4-479e-994e-1b02273d112b" />
+
+
+<img width="567" height="547" alt="image" src="https://github.com/user-attachments/assets/323834c1-2df5-4ef1-a63e-44965e9292b8" />
+
+
+<img width="622" height="533" alt="image" src="https://github.com/user-attachments/assets/b749e7f3-60d5-4056-96ee-5a6f79f8c70d" />
+
+
+<img width="351" height="546" alt="image" src="https://github.com/user-attachments/assets/27e2e04a-ecc8-43a8-8707-9247c5038efd" />
+
+
+<img width="904" height="623" alt="image" src="https://github.com/user-attachments/assets/3859c0b2-b321-4c89-96fa-8beb26fad4c9" />
+
+
+<img width="299" height="511" alt="image" src="https://github.com/user-attachments/assets/3b918eb3-6fbc-42a4-8e04-426848016429" />
+
+
+<img width="973" height="615" alt="image" src="https://github.com/user-attachments/assets/5c7f8d74-f98b-4751-bc63-c7b3879cc372" />
+
+
 
 ## Result: 
 
